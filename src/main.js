@@ -1,5 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
+import "../public/bootstrap.min.css"
+import Vuelidate from "vuelidate"
+
+Vue.use(Vuelidate);
 
 Vue.config.productionTip = false
 

@@ -1,24 +1,12 @@
-# proje-8
+# Validation Operations with Vuelidate
 
-## Project setup
-```
-yarn install
-```
+## Core technologies
+Html,Css,Js,Nodejs,Vuejs
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Plugins
+Vuelidate
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Preview
+![alt text](public/preview.jpg "Logo Title Text 1")
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
